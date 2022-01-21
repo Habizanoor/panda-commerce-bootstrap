@@ -1,0 +1,26 @@
+.first-banner{
+    border-radius: 10px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-btn{
+    background-image: linear-gradient(#ff4d94,#ff1c74);
+    color: white;
+}
+.panda-info-bg{
+    background-color: #fceae8;
+
+}
+.categories img{
+    width: 100px;
+}
+#categories-shoe{
+    background-color: #0000ff;
+}
+#categories-bag{
+    background-color: #da70d6;
+}
+#categories-watch{
+    background-color: #ffa500;
+}
